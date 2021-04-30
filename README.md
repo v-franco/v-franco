@@ -1,5 +1,4 @@
 # Hi there 👋 my name is Victor
-### About me
 
 
 ### Languages and technologies
