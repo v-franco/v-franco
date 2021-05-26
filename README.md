@@ -7,6 +7,10 @@
 ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  
 ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)  
 
+## Hobbies:
+I'm a mech keyboard enthusiast, meaning I like to assemble, program, and use mechanical keyboards.
+In my [QMK keymaps repo](https://github.com/v-franco/qmk-keymaps) I have info on the keyboards I have/use, my layouts, and the files to compile and use the firmware.
+
 ### GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-franco&count_private=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-franco&layout=compact&theme=dracula&langs_count=8&hide=ASP.NET)](https://github.com/anuraghazra/github-readme-stats)
