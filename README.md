@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)  
 ## About me:
 3rd year CS and Technology student. 
-Currently I am learning web development using new technologies and frameworks. 
+Currently I am learning mobile development.
 ## Hobbies:
 I'm a mech keyboard enthusiast, meaning I like to assemble, program, and use mechanical keyboards.
 In my [QMK keymaps repo](https://github.com/v-franco/qmk-keymaps) I have info on the keyboards I have/use, my layouts, and the files to compile and use the firmware.
