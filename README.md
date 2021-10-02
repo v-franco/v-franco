@@ -13,7 +13,7 @@ Currently I am learning mobile development.
 I'm a mech keyboard enthusiast, meaning I like to assemble, program, and use mechanical keyboards.
 In my [QMK keymaps repo](https://github.com/v-franco/qmk-keymaps) I have info on the keyboards I have/use, my layouts, and the files to compile and use the firmware.
 
-### GitHub stats
+## GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-franco&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3859BD&icon_color=3859BD)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-franco&layout=compact&theme=react&&hide_border=true&bg_color=0D1117&title_color=3859BD&icon_color=3859BDlangs_count=10&hide=ASP.NET)](https://github.com/anuraghazra/github-readme-stats)
 <!--
