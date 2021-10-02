@@ -15,7 +15,7 @@ In my [QMK keymaps repo](https://github.com/v-franco/qmk-keymaps) I have info on
 
 ### GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-franco&count_private=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-franco&layout=compact&theme=dracula&langs_count=10&hide=ASP.NET)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-franco&layout=compact&theme=react&langs_count=10&hide=ASP.NET)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **v-franco/v-franco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
