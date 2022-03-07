@@ -9,9 +9,6 @@
 ## About me:
 3rd year CS and Technology student. 
 Currently I am learning Vue.js.
-## Hobbies:
-I'm a mech keyboard enthusiast, meaning I like to assemble, program, and use mechanical keyboards.
-In my [QMK keymaps repo](https://github.com/v-franco/qmk-keymaps) I have info on the keyboards I have/use, my layouts, and the files to compile and use the firmware.
 
 ## GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-franco&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=c92e53&icon_color=c92e53)
