@@ -1,4 +1,7 @@
 # Hi there 👋
+## About me:
+3rd year CS and Technology student. 
+Currently learning web development (full-stack).
 
 
 ### Languages and technologies
@@ -6,9 +9,6 @@
 </br>
 ![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)  
-## About me:
-3rd year CS and Technology student. 
-Currently I am learning Vue.js.
 
 ## GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-franco&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=c92e53&icon_color=c92e53)
