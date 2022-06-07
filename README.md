@@ -32,7 +32,6 @@
 
 ## GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v-franco&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=c92e53&icon_color=c92e53)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-franco&layout=compact&theme=dracula&&hide_border=true&bg_color=0D1117&title_color=c92e53&icon_color=c92e53&langs_count=10&hide=ASP.NET)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-franco&label=Profile%20views&color=0e75b6&style=flat" alt="v-franco" /> </p>
 <!--
