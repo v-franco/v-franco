@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue.js & full stack development**
 
-- 💬 Ask me about **Web development, Firebase Firestore, and CS related topics!**
+- 💬 Ask me about **Web development, data structures, algorithms, databases (Both relational and NoSQL), and CS related topics!**
 
 - 📫 How to reach me **vfranco.itc@gmail.com**
 
