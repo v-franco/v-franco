@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Franco</h1>
 <h3 align="center">3rd year CS & Technology student</h3>
 
-- 🌱 I’m currently learning **Vue.js & full stack development**
+- 🌱 I’m currently learning **Vue.js & Project Management**
 
 - 💬 Ask me about **Web development, data structures, algorithms, databases (Both relational and NoSQL), and CS related topics!**
 
