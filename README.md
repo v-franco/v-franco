@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web development, data structures, algorithms, databases (Both relational and NoSQL), Project Management, Power BI and CS related topics!**
 
-- 📫 How to reach me **vhfranco.dev@gmail.com*
+- 📫 How to reach me **vhfranco.dev@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
