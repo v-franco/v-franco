@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Víctor Franco</h1>
-<h3 align="center">4th year CS & Technology student</h3>
+<h3 align="center">Computer Science and Technology Engineer</h3>
 
 - 🌱 I’m currently learning **Power BI & Project Management**
 
